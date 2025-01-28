@@ -1,6 +1,6 @@
 # Software Engineer
 
-Developer with experience in SQL, JavaScript, Java, CSS, and HTML. Passionate about technology and always seeking new knowledge.
+Developer with experience in SQL, JavaScript, TypeScript, React, CSS, HTML. Passionate about technology and always seeking new knowledge.
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,gmail,linkedin,mysql,postgres,vscode)](https://skillicons.dev)
